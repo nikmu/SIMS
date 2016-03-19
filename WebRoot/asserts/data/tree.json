@@ -1,0 +1,16 @@
+{
+	"success":true,
+	"nodes":[{
+	    "text":"基础数据管理",
+		"nodes":[{
+		    "text":"省份信息维护",
+		    "href":"provinceInfor/list"
+		},{
+		    "text":"中心信息维护",
+		    "href":"centreInfor/list"
+		},{
+		    "text":"单位信息维护",
+		    "href":"organizationInfor/list"
+		}]
+	}]
+}
